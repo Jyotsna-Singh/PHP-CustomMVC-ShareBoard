@@ -1,29 +1,33 @@
-# Secret Diary
+# ShareBoard
 
-Secret Diary is an online diary application built with PHP. Users can register to create an account and login to store their thoughts in the diary.
+ShareBoard is an Idea Sharing Application built with a Custom MVC PHP Framework.
 
 * Features/Technologies: 
   * PHP Syntax, PHPMyAdmin, MySQL
   * HTML/CSS
   * Bootstrap
-  * Custom Font
+  * RDBMS within OOPS framework
   
 
 ## Version
-1.0
+1.0.0
 
 ## Live Demo
- [SecretDiary](http://jyotsna-singh-com.stackstaging.com/projects/php/SecretDiary/)
+ [ShareBoard](http://jyotsna-singh-com.stackstaging.com/projects/php/ShareBoard/)
 
 ## Snapshots
   
  **Home** | 
 --- |
- ![alt text](https://github.com/Jyotsna-Singh/PHP-SecretDiary/blob/master/img/home.PNG)   |
+ ![alt text](https://github.com/Jyotsna-Singh/PHP-CustomMVC-ShareBoard/blob/master/img/home.PNG)   |
  
- **Diary** | 
+ **View All Shares** | 
 --- |
- ![alt text](https://github.com/Jyotsna-Singh/PHP-SecretDiary/blob/master/img/diary.PNG)   |
+ ![alt text](https://github.com/Jyotsna-Singh/PHP-CustomMVC-ShareBoard/blob/master/img/shares.PNG)   |
+  
+ **Share Your Idea** | 
+--- |
+ ![alt text](https://github.com/Jyotsna-Singh/PHP-CustomMVC-ShareBoard/blob/master/img/share.PNG)   |
   
 
 ## License
