@@ -13,7 +13,7 @@ ShareBoard is an Idea Sharing Application built with a Custom MVC PHP Framework.
 1.0.0
 
 ## Live Demo
- [ShareBoard](http://jyotsna-singh-com.stackstaging.com/projects/php/ShareBoard/)
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](http://jyotsnasingh.com/projects/php/ShareBoard/)
 
 ## Snapshots
   
