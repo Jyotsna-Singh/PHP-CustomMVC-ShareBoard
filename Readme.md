@@ -19,7 +19,7 @@ ShareBoard is an Idea Sharing Application built with a Custom MVC PHP Framework.
   
  **Home** | 
 --- |
- ![alt text](https://github.com/Jyotsna-Singh/PHP-CustomMVC-ShareBoard/blob/master/img/home.PNG)   |
+ ![alt text](https://github.com/Jyotsna-Singh/PHP-CustomMVC-ShareBoard/blob/master/img/home-page.PNG)   |
  
  **View All Shares** | 
 --- |
